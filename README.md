@@ -3,9 +3,9 @@
 
 Curso promovido por Roger Melo em seu canal do Youtube:
 
-https://www.youtube.com/watch?v=ExK7mUmfdeM&list=PLpSJMw6H4PFMOJHMULTxKNOEw7g1cBuyP&index=1
+[Assista no Youtube](https://www.youtube.com/watch?v=ExK7mUmfdeM&list=PLpSJMw6H4PFMOJHMULTxKNOEw7g1cBuyP&index=1)
 
-API: https://www.exchangerate-api.com/
+[Exchangerate API](https://www.exchangerate-api.com/)
 
 **Observações pessoais sobre o treinamento:**
 
