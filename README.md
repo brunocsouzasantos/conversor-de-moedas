@@ -1,5 +1,5 @@
 # Aplicação utilizando javacript puro.
-## A consulta às mnoedas e cotações é realizada por API.
+## A consulta às moedas e cotações são realizadas por API.
 
 Curso promovido por Roger Melo em seu canal do Youtube:
 
