@@ -65,7 +65,7 @@ const state = (() => {
     }
   }
 })()
-const APIKey = `24573eb2a55f12651e177bac`
+const APIKey = 'Crie uma conta e insira a chave de sua API'
 const getUrl = currency => `https://v6.exchangerate-api.com/v6/${APIKey}/latest/${currency}`
 
 // O error-type base-code-only-on-pro foi retirado do retorno da api no momento de realização deste curso.
